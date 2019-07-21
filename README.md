@@ -1,6 +1,6 @@
 # BigClown NFC Tag (Arduino)
 
-Prepis zakladnich funkci pro ulozeni NDEF zpravy do EEPROM pameti NFC cipu z BigClown SDK do Arduina. NFC tag komunikuje na I2C (3,3V) a prepis se tyka jen praci s I2C pomoci objektu Wire.
+Prepis zakladnich funkci pro ulozeni NDEF zpravy do EEPROM pameti NFC cipu z BigClown SDK do Arduina. NFC tag komunikuje na I2C (3,3V) a prepis se tyka jen praci s I2C pomoci knihovny Wire.
 
 Puvodni zdrojove kody pro BigClown:
 
